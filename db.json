@@ -1,0 +1,196 @@
+{
+  "mercado": [
+    {
+      "id": 1,
+      "name": "Arroz Branco Longo-fino Tipo 1 Camil Todo Dia 5Kg",
+      "category": "arroz_graos",
+      "option": "alimentos_basicos",
+      "price": "R$ 17,30",
+      "url": "https://www.carrefour.com.br/Arroz-Branco-Longo-fino-Tipo-1-Camil-Todo-Dia-5Kg/p/115789"
+    },
+    {
+      "id": 2,
+      "name": "Arroz Branco Longo-fino Tipo 1 Prato Fino 5 Kg",
+      "category": "arroz_graos",
+      "option": "alimentos_basicos",
+      "price": "R$ 19,79",
+      "url": "https://www.carrefour.com.br/Arroz-Branco-Longo-fino-Tipo-1-Prato-Fino-5-Kg/p/906417"
+    },
+    {
+      "id": 3,
+      "name": "Feijão Carioca Tipo 1 Broto Legal 1 Kg",
+      "category": "arroz_graos",
+      "option": "alimentos_basicos",
+      "price": "R$ 9,49",
+      "url": "https://www.carrefour.com.br/Feijao-Carioca-Tipo-1-Broto-Legal-1-Kg/p/4883977"
+    },
+    {
+      "id": 4,
+      "name": "Óleo de Soja Liza 900ml",
+      "category": "especiarias",
+      "option": "alimentos_basicos",
+      "price": "R$ 4,15",
+      "url": "https://www.carrefour.com.br/Oleo-de-Soja-Liza-900ml/p/406830"
+    },
+    {
+      "id": 5,
+      "name": "Azeite Português Extra Virgem Tradicional Gallo 500ml",
+      "category": "especiarias",
+      "option": "alimentos_basicos",
+      "price": "R$ 19,55",
+      "url": "https://www.carrefour.com.br/Azeite-Portugues-Extra-Virgem-Tradicional-Gallo-500ml/p/309451"
+    },
+    {
+      "id": 6,
+      "name": "Vinagre de Maçã Castelo 750ml",
+      "category": "especiarias",
+      "option": "alimentos_basicos",
+      "price": "R$ 4,79",
+      "url": "https://www.carrefour.com.br/Vinagre-de-Maca-Castelo-750ml/p/205079"
+    },
+    {
+      "id": 7,
+      "name": "Sardinha em Óleo Gomes da Costa 125g",
+      "category": "conservas",
+      "option": "alimentos_basicos",
+      "price": "R$ 4,29",
+      "url": "https://www.carrefour.com.br/Sardinha-em-Oleo-Gomes-da-Costa-125g/p/7772831"
+    },
+    {
+      "id": 8,
+      "name": "Atum Sólido em Óleo Gomes da Costa 170g",
+      "category": "conservas",
+      "option": "alimentos_basicos",
+      "price": "R$ 7,80",
+      "url": "https://www.carrefour.com.br/Atum-Solido-em-Oleo-Gomes-da-Costa-170g/p/324515"
+    },
+    {
+      "id": 9,
+      "name": "Milho Verde em Conserva Carrefour 200g",
+      "category": "conservas",
+      "option": "alimentos_basicos",
+      "price": "R$ 2,09",
+      "url": "https://www.carrefour.com.br/Milho-Verde-em-Conserva-Carrefour-200g/p/9122850"
+    },
+    {
+      "id": 10,
+      "name": "Macarrão Espaguete Dona Benta de Sêmola Nº8 Tradicional 500g",
+      "category": "massas",
+      "option": "alimentos_basicos",
+      "price": "R$ 2,70",
+      "url": "https://www.carrefour.com.br/Macarrao-Espaguete-Dona-Benta-de-Semola-N8-Tradicional-500g/p/2672030"
+    },
+    {
+      "id": 11,
+      "name": "Molho de Tomate Tradicional sem Pedaço de Tomate Quero 340g",
+      "category": "massas",
+      "option": "alimentos_basicos",
+      "price": "R$ 1,55",
+      "url": "https://www.carrefour.com.br/Molho-de-Tomate-Tradicional-sem-Pedaco-de-Tomate-Quero-340g/p/9069283"
+    },
+    {
+      "id": 12,
+      "name": "Macarrão Instantâneo Nissin Sabor Galinha Caipira 85g",
+      "category": "massas",
+      "option": "alimentos_basicos",
+      "price": "R$ 1,59",
+      "url": "https://www.carrefour.com.br/Macarrao-Instantaneo-Nissin-Sabor-Galinha-Caipira-85g/p/4814177"
+    },
+    {
+      "id": 13,
+      "name": "Água Mineral sem Gás Crystal 350ml",
+      "category": "agua",
+      "option": "bebidas",
+      "price": "R$ 2,39",
+      "url": "https://www.carrefour.com.br/Agua-Mineral-sem-Gas-Crystal-350ml/p/4167031"
+    },
+    {
+      "id": 14,
+      "name": "Água de Coco Sococo 1 Litro",
+      "category": "agua",
+      "option": "bebidas",
+      "price": "R$ 8,10",
+      "url": "https://www.carrefour.com.br/Agua-de-Coco-Sococo-1-Litro/p/7776128"
+    },
+    {
+      "id": 15,
+      "name": "Água Mineral sem Gás Bonafont 1,5 Litros",
+      "category": "agua",
+      "option": "bebidas",
+      "price": "R$ 2,55",
+      "url": "https://www.carrefour.com.br/Agua-Mineral-sem-Gas-Bonafont-1-5-Litros/p/8229252"
+    },
+    {
+      "id": 16,
+      "name": "Cerveja Amstel Pilsen Lager 269ml",
+      "category": "cervejas",
+      "option": "bebidas",
+      "price": "R$ 2,55",
+      "url": "https://www.carrefour.com.br/Cerveja-Amstel-Pilsen-Lager-269ml/p/9943013"
+    },
+    {
+      "id": 17,
+      "name": "Cerveja Skol Pilsen Lager 350ml",
+      "category": "cervejas",
+      "option": "bebidas",
+      "price": "R$ 2,29",
+      "url": "https://www.carrefour.com.br/Cerveja-Skol-Pilsen-Lager-350ml/p/154954"
+    },
+    {
+      "id": 18,
+      "name": "Cerveja Heineken Premium Pilsen Lager 250ml",
+      "category": "cervejas",
+      "option": "bebidas",
+      "price": "R$ 2,75",
+      "url": "https://www.carrefour.com.br/Cerveja-Heineken-Premium-Pilsen-Lager-250ml/p/9772103"
+    },
+    {
+      "id": 19,
+      "name": "Refresco de Laranja Tang Nutri 25g",
+      "category": "sucos",
+      "option": "bebidas",
+      "price": "R$ 0,99",
+      "url": "https://www.carrefour.com.br/Refresco-de-Laranja-Tang-Nutri-25g/p/9690468"
+    },
+    {
+      "id": 20,
+      "name": "Bebida à Base de Soja Sabor Laranja Ades 1 Litro",
+      "category": "sucos",
+      "option": "bebidas",
+      "price": "R$ 5,95",
+      "url": "https://www.carrefour.com.br/Bebida-a-Base-de-Soja-Sabor-Laranja-Ades-1-Litro/p/182710"
+    },
+    {
+      "id": 21,
+      "name": "Néctar de Laranja Del Valle 1 Litro",
+      "category": "sucos",
+      "option": "bebidas",
+      "price": "R$ 6,60",
+      "url": "https://www.carrefour.com.br/Nectar-de-Laranja-Del-Valle-1-Litro/p/4308956"
+    },
+    {
+      "id": 22,
+      "name": "Bife de Contra Filé Congelado Wessel Premium 400g",
+      "category": "carnes",
+      "option": "frescos",
+      "price": "R$ 39,90",
+      "url": "https://www.carrefour.com.br/Bife-de-Contra-File-Congelado-Wessel-Premium-400g/p/8654905"
+    },
+    {
+      "id": 23,
+      "name": "Asa de Frango Congelado com Osso Sadia 1Kg",
+      "category": "carnes",
+      "option": "frescos",
+      "price": "R$ 19,39",
+      "url": "https://www.carrefour.com.br/Asa-de-Frango-Congelado-com-Osso-Sadia-1Kg/p/869163"
+    },
+    {
+      "id": 24,
+      "name": "Filé de Tilápia sem Espinha sem Pele Congelado Netuno 800g",
+      "category": "carnes",
+      "option": "frescos",
+      "price": "R$ 41,90",
+      "url": "https://www.carrefour.com.br/File-de-Tilapia-sem-Espinha-sem-Pele-Congelado-Netuno-800g/p/9764690"
+    }
+  ]
+}
