@@ -15,8 +15,6 @@ bot.on("message", async (msg) => {
 
   bot.sendMessage(chatId, responseText);
 
-  console.log(dfResponse);
-
   let voltar = false;
 
   if (
