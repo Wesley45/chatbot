@@ -192,5 +192,140 @@
       "price": "R$ 41,90",
       "url": "https://www.carrefour.com.br/File-de-Tilapia-sem-Espinha-sem-Pele-Congelado-Netuno-800g/p/9764690"
     }
+  ],
+  "celulares": [
+    {
+      "id": 1,
+      "name": "Smartphone Samsung Galaxy S20 128GB Cosmic Gray 4G Tela 6.2 Pol. Câmera Tripla 64MP Selfie 10MP Android 10",
+      "category": "samsung",
+      "option": "marca",
+      "price": "R$ 4.949,10",
+      "url": "https://www.carrefour.com.br/Smartphone-Samsung-Galaxy-S20-128GB-Cosmic-Gray-4G-Tela-6-2-Pol-Camera-Tripla-64MP-Selfie-10MP-Android-10/p/6652689"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Samsung Galaxy A10s 32GB Preto 4G Tela 6.2 Câmera Dupla 13MP Selfie 8MP Dual Chip Android 9.0",
+      "category": "samsung",
+      "option": "marca",
+      "price": "R$ 999,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Samsung-Galaxy-A10s-32GB-Preto-4G-Tela-6-2-Camera-Dupla-13MP-Selfie-8MP-Dual-Chip-Android-9-0/p/5854164"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone Samsung Galaxy S10 Lite 128GB Azul 4G Tela 6.7 Pol. Câmera Tripla 48MP Selfie 32MP Android 10.0",
+      "category": "samsung",
+      "option": "marca",
+      "price": "R$ 2.679,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Samsung-Galaxy-S10-Lite-128GB-Azul-4G-Tela-6-7-Pol-Camera-Tripla-48MP-Selfie-32MP-Android-10-0/p/5916100"
+    },
+    {
+      "id": 4,
+      "name": "Smartphone Motorola Moto E6 Plus 64GB Cinza Metálico 4G Tela 6,1 Câmera Dupla 13MP Selfie 8MP Android 9",
+      "category": "motorola",
+      "option": "marca",
+      "price": "R$ 1.298,70",
+      "url": "https://www.carrefour.com.br/Smartphone-Motorola-Moto-E6-Plus-64GB-Cinza-Metalico-4G-Tela-6-1-Camera-Dupla-13MP-Selfie-8MP-Android-9/p/5814189"
+    },
+    {
+      "id": 5,
+      "name": "Smartphone Motorola One Hyper 128GB Azul Oceano 4G Tela 6,5 Pol. Câmera 64MP Selfie 32MP Dual Chip Android 10",
+      "category": "motorola",
+      "option": "marca",
+      "price": "R$ 1.599,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Motorola-One-Hyper-128GB-Azul-Oceano-4G-Tela-6-5-Pol-Camera-64MP-Selfie-32MP-Dual-Chip-Android-10/p/5906040"
+    },
+    {
+      "id": 6,
+      "name": "Smartphone Motorola One Hyper 128GB Rosa Boreal 4G Tela 6,5 Pol. Câmera 64MP Selfie 32MP Dual Chip Android 10",
+      "category": "motorola",
+      "option": "marca",
+      "price": "R$ 1.599,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Motorola-One-Hyper-128GB-Rosa-Boreal-4G-Tela-6-5-Pol-Camera-64MP-Selfie-32MP-Dual-Chip-Android-10/p/5906032"
+    },
+    {
+      "id": 7,
+      "name": "Smartphone Samsung Galaxy A51 128GB Branco 4G Tela 6.5 Pol. Câmera Quadrupla 48MP Selfie 32MP Android 10.0",
+      "category": "128GB",
+      "option": "memoria",
+      "price": "R$ 1.789,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Samsung-Galaxy-A51-128GB-Branco-4G-Tela-6-5-Pol-Camera-Quadrupla-48MP-Selfie-32MP-Android-10-0/p/5916372"
+    },
+    {
+      "id": 8,
+      "name": "Smartphone Motorola One Hyper 128GB Azul Oceano 4G Tela 6,5 Pol. Câmera 64MP Selfie 32MP Dual Chip Android 10",
+      "category": "128GB",
+      "option": "memoria",
+      "price": "R$ 1.599,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Motorola-One-Hyper-128GB-Azul-Oceano-4G-Tela-6-5-Pol-Camera-64MP-Selfie-32MP-Dual-Chip-Android-10/p/5906040"
+    },
+    {
+      "id": 9,
+      "name": "Smartphone Samsung Galaxy S10 Lite 128GB Azul 4G Tela 6.7 Pol. Câmera Tripla 48MP Selfie 32MP Android 10.0",
+      "category": "128GB",
+      "option": "memoria",
+      "price": "R$ 2.679,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Samsung-Galaxy-S10-Lite-128GB-Azul-4G-Tela-6-7-Pol-Camera-Tripla-48MP-Selfie-32MP-Android-10-0/p/5916100"
+    },
+    {
+      "id": 10,
+      "name": "Smartphone Motorola Moto E6 Plus 64GB Cinza Metálico 4G Tela 6,1 Câmera Dupla 13MP Selfie 8MP Android 9",
+      "category": "64GB",
+      "option": "memoria",
+      "price": "R$ 1.298,70",
+      "url": "https://www.carrefour.com.br/Smartphone-Motorola-Moto-E6-Plus-64GB-Cinza-Metalico-4G-Tela-6-1-Camera-Dupla-13MP-Selfie-8MP-Android-9/p/5814189"
+    },
+    {
+      "id": 11,
+      "name": "Smartphone Samsung Galaxy A20s 32GB Azul 4G Tela 6.5 Câmera Tripla 13MP Selfie 8MP Dual Chip Android 9.0",
+      "category": "32GB",
+      "option": "memoria",
+      "price": "R$ 1.049,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Samsung-Galaxy-A20s-32GB-Azul-4G-Tela-6-5-Camera-Tripla-13MP-Selfie-8MP-Dual-Chip-Android-9-0/p/5854172"
+    },
+    {
+      "id": 12,
+      "name": "Smartphone Samsung Galaxy A10s 32GB Preto 4G Tela 6.2 Câmera Dupla 13MP Selfie 8MP Dual Chip Android 9.0",
+      "category": "32GB",
+      "option": "memoria",
+      "price": "R$ 999,00",
+      "url": "https://www.carrefour.com.br/Smartphone-Samsung-Galaxy-A10s-32GB-Preto-4G-Tela-6-2-Camera-Dupla-13MP-Selfie-8MP-Dual-Chip-Android-9-0/p/5854164"
+    }
+  ],
+  "tvs": [
+    {
+      "id": 1,
+      "name": "Smart TV LED 43 LG 43LM6300PSB Full HD Wi-Fi Preta Conversor Digital Integrado",
+      "category": "tvs_oferta",
+      "price": "R$ 1.899,00",
+      "url": "https://www.carrefour.com.br/Smart-TV-LED-43-LG-43LM6300PSB-Full-HD-Wi-Fi-Preta-Conversor-Digital-Integrado/p/5762626?crfint=subhome|tecnologia-e-eletronicos|v-smpls|tv-e-smart-tv-em-oferta|5762626|6"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Smart TV 50 Crystal UHD TU8000 4K, Borda Infinita, Alexa built in, Controle Único, Modo Ambiente Foto",
+      "category": "tvs_oferta",
+      "price": "R$ 2.589,00",
+      "url": "https://www.carrefour.com.br/Samsung-Smart-TV-50-Crystal-UHD-TU8000-4K-Borda-Infinita-Alexa-built-in-Controle-Unico-Modo-Ambiente-Foto/p/6005233?crfint=subhome|tecnologia-e-eletronicos|v-smpls|tv-e-smart-tv-em-oferta|6005233|7"
+    },
+    {
+      "id": 3,
+      "name": "Smart TV Nanocell 49 LG NANO81SNA 4K Bluetooth, Thinq Ai, Google Assistant, Amazon Alexa, Quad Core Processor",
+      "category": "tvs_oferta",
+      "price": "R$ 2.949,00",
+      "url": "https://www.carrefour.com.br/Smart-TV-Nanocell-49-LG-NANO81SNA-4K-Bluetooth-Thinq-Ai-Google-Assistant-Amazon-Alexa-Quad-Core-Processor/p/6109489?crfint=subhome|tecnologia-e-eletronicos|v-smpls|tv-e-smart-tv-em-oferta|6109489|5"
+    },
+    {
+      "id": 4,
+      "name": "Smart TV LED 55 Panasonic TC55FX800B Ultra HD 4K Bluetooth, HDR Ativo, Painel ART GLASS, 4 HDMI, 3 USB",
+      "category": "melhor_preco",
+      "price": "R$ 3.399,00",
+      "url": "https://www.carrefour.com.br/Smart-TV-LED-55-Panasonic-TC55FX800B-Ultra-HD-4K-Bluetooth-HDR-Ativo-Painel-ART-GLASS-4-HDMI-3-USB/p/5505488?crfint=subhome|tecnologia-e-eletronicos|v-smpls|tv-4k-com-os-melhores-precos|5505488|1"
+    },
+    {
+      "id": 5,
+      "name": "Samsung Smart TV 65 Crystal UHD TU8000 4K, Borda Infinita, Alexa built in, Controle Único, Modo Ambiente Foto",
+      "category": "melhor_preco",
+      "price": "R$ 4.689,00",
+      "url": "https://www.carrefour.com.br/Samsung-Smart-TV-65-Crystal-UHD-TU8000-4K-Borda-Infinita-Alexa-built-in-Controle-Unico-Modo-Ambiente-Foto/p/6005390?crfint=subhome|tecnologia-e-eletronicos|v-smpls|tv-4k-com-os-melhores-precos|6005390|2"
+    }
   ]
 }
