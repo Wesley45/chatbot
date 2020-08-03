@@ -24,7 +24,7 @@ $ npm run start
 $ npx json-server db.json
 ```
 
-Para variáveis ambientais...
+Para variáveis de ambiente...
 Crie um arquivo .env na raiz do projeto.
 
 ```sh
@@ -41,7 +41,7 @@ Depois de ter criado o novo agente, clica em configuração do agente, e vai em 
 
 
    [dotenv]: <https://www.npmjs.com/package/dotenv>
-   [Dialogflow API: Node.js Client]: <http://ace.ajax.org>
+   [Dialogflow API: Node.js Client]: <https://www.npmjs.com/package/dialogflow>
    [node.js]: <http://nodejs.org>
    [JSON Server]: <https://www.npmjs.com/package/json-server/>
    [Node.js Telegram Bot API]: <https://www.npmjs.com/package/node-telegram-bot-api>
