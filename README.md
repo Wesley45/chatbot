@@ -67,7 +67,8 @@ Vai em <strong>Chaves</strong>, clica em ADICIONAR CHAVE, e depois em CRIAR NOVA
 
 ![Chave_agent](https://github.com/Wesley45/chatbot/blob/master/screenshots/dialogflow8.png)
 
-Crie a chave privada no formato JSON, e depois adicionar o arquivo json na pasta raiz do projeto.
+Crie a chave privada no formato JSON, e depois adicionar o arquivo json na pasta raiz do projeto, vai no arquivo src/dialogflow.js,
+adicione o nome do arquivo json no <strong>const configs = require("./../chatbox-carrefour-aort-f7c880046e24.json")</strong>, que está na linha 2.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
